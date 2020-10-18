@@ -1,0 +1,14 @@
+Temas de esta seccion
+
+1) Definir los alcances de nuestro RESTServer
+2) CRUD
+3) Encriptacion de contraseñas
+4) Validaciones personalizadas
+5) Creacion de roles
+6) Conexiones con MLAB
+7) Despliegue de base de datos en la nube
+8) Conexion con Robo 3T con base de datos en la nube
+9) Configuracion de variables de entorno
+10) Borrado de archivos
+  a) Eliminado fisico de la base de datos
+  b) Eliminacion por estado en un campo de la coleccion
